@@ -1,2 +1,3 @@
-# FIRSTREPO
-starterREPO
+# firstREPO
+starterREPO for feel of gitHUB,
+walkthrough mainly.
